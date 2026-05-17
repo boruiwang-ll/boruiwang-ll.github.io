@@ -12,3 +12,5 @@ Dockerfile.jekyll
 # OS files
 .DS_Store
 Thumbs.db
+
+/vault

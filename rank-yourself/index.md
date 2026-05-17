@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Duke of AI | Rank Yourself
+title: LL Cool M | Rank Yourself
 ---
 
 <section id="rank-yourself">

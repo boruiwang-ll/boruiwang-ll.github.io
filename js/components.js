@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const sidebarHTML = `
     <aside class="sidebar">
         <div class="profile-section">
-            <img class="profile-img" src="${base}/assets/images/portrait.png" alt="Duke of AI">
-            <h1>Duke of AI</h1>
-            <h2>Senior Software Engineer @ Microsoft<br>Distributed Systems & Cloud Infrastructure</h2>
+            <img class="profile-img" src="${base}/assets/images/portrait.png" alt="LL Cool M">
+            <h1>LL Cool M</h1>
+            <h2>Engineer | AI Infra</h2>
         </div>
         
         <nav class="main-nav">
