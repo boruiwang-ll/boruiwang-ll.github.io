@@ -10,6 +10,8 @@ Smithy is for knowledge keeping and article development. It is excluded from the
    - Workspace: `transformer-101-mental-models`
 3. LLM Inference 101, mental models
    - Workspace: `llm-inference-101-mental-models`
+4. Singularity vs MAST
+   - Workspace: `singularity-vs-mast`
 
 ## Topic Folder Pattern
 
